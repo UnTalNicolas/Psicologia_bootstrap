@@ -1,0 +1,89 @@
+header{
+    background-color: black;
+}
+
+.nv-nav a{
+    color: white !important;
+}
+
+.nv-nav a:hover{
+    background-color: rgba( 255, 255, 255, .3);
+}
+
+.nv-nav{
+    background: none !important;
+}
+
+.nv-section{
+    width: 90% !important;
+}
+
+.nv-section img{
+    width: 100%;
+    height: 300px;
+}
+
+.nv-section ul h5{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nv-footer{
+    background-color: black !important;
+}
+
+.nv-footer .container .row .border-right{
+    border-right-color: #E0A800 !important;
+    border-right-width: 2px !important;
+}
+
+.nv-footer .container .title{
+    color: #E0A800;
+}
+
+.nv-footer .container .trj-icon i{
+    font-size: 40px;
+    color: #E0A800;
+    margin-bottom: 20px;
+}
+
+.nv-footer .container .row h4{
+    color: #E0A800;
+    margin-bottom: 20px;
+}
+
+.nv-footer .container .row .nv-envInfo{
+    height: 300px !important;
+}
+.nv-footer form button{
+    background-color: #AF864F;
+}
+
+.nv-footer .rs-prin .cont-rs {
+    background-color: #AF864F;
+}
+
+.nv-footer .rs-prin .cont-rs:hover {
+    background-color: #E0A800;
+}
+
+.nv-footer .rs-prin .cont-rs a i{
+    color: black;
+    font-size: 40px;
+}
